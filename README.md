@@ -1,7 +1,12 @@
 # Hello RTCE
 Hello RTCE is an opensource webased Real-Time Collaborative editor that allows several people to edit text using different computers.
 
-Follow [@helloRtce](https://www.twitter.com/helloRtce) on Twitter for help, ideas and general javascript talk. Also feel free to post your implementation.
+Follow [@helloRtce](https://www.twitter.com/helloRtce) on Twitter for help, ideas and general javascript talk. Also feel free to post your implementation. 
 
-##Contributor(s)
-Dennis Laupman [@Dennis_pluxbox](https://www.twitter.com/Dennis_pluxbox)
+##Installation
+
+##Getting Started
+
+![hello-browser](https://cloud.githubusercontent.com/assets/1274858/12566196/b0ccd2ba-c3b8-11e5-9f10-e01666a656bf.png)
+
+##Contribute
